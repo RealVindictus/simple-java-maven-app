@@ -30,7 +30,7 @@
           </configuration>
         </plugin>
       </plugins>
-    </pluginManagement>
+    </pluginManagements
     <plugins>
       <plugin>
         <!-- Build an executable JAR -->
